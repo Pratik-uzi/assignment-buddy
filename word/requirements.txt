@@ -1,0 +1,8 @@
+flask>=2.0.1
+pillow>=9.0.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+streamlit>=1.8.0
+requests>=2.26.0
+werkzeug>=2.0.0
+reportlab>=3.6.8 
