@@ -2,6 +2,15 @@
 
 ![Assignment Buddy Interface](https://raw.githubusercontent.com/Pratik-uzi/assignment-buddy/main/docs/images/interface.png)
 
+## 📸 See it in Action
+
+### Input Document
+![Input PDF/DOCX](docs/images/input.png)
+
+### Handwritten Output
+![Handwritten Output](docs/images/output.png)
+
+
 > Transform your digital documents into personalized handwritten notes! ✨
 
 ## 🌟 Features
@@ -83,4 +92,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💖 Support
 
 Love Assignment Buddy? Give us a star ⭐ and share with your friends!
+
+## Acknowledgments :D
+
+FONTS:https://github.com/Pranav082001/Text-to-Handwriting.git/myfont
+
 
