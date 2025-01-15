@@ -95,6 +95,6 @@ Love Assignment Buddy? Give us a star ⭐ and share with your friends!
 
 ## Acknowledgments :D
 
-FONTS:https://github.com/Pranav082001/Text-to-Handwriting.git/myfont
+FONTS:https://github.com/Pranav082001/Text-to-Handwriting.git
 
 
